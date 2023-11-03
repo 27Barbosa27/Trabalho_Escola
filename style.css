@@ -150,14 +150,14 @@ img{
   border-radius: 15%;
   margin-left: 5%;
   margin-right: 3%;
-  width: 400px;
+  width: 350px;
   height: 350px;
 }
 
 
 .textoIntroduction{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, bold;
-  line-height: 1.5 ;
+  line-height: 1.8 ;
   text-align: justify;
   
 }
