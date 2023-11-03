@@ -1,0 +1,10 @@
+body{
+    background-image: url("src/img/trianglify-lowres.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.navbar{
+    color: black;
+}
