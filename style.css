@@ -113,10 +113,18 @@ a{
 
 img{
   border-radius: 15%;
-  margin-left: 5%;
+  margin-left: 1%;
   margin-right: 3%;
-  width: 350px;
+  width: 400px;
   height: 350px;
+}
+
+.logotipo{
+  border-radius: 15%;
+  margin-left: 1%;
+  margin-right: 3%;
+  width: 400px;
+  height: 200px;
 }
 
 
