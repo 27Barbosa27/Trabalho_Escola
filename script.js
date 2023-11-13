@@ -27,13 +27,4 @@ window.addEventListener('scroll', function () {
 
 /*Download*/
 
-document.getElementById("downloadButton").addEventListener("click", function() {
-  var arquivoURL = "\Documents\AllPills"; // Substitua pelo caminho real do arquivo
-  var nomeDoArquivo = "AllPills.apk"; // Substitua pelo nome desejado do arquivo
 
-  var link = document.createElement("a");
-  link.href = arquivoURL;
-  link.download = nomeDoArquivo;
-
-  link.click();
-});
