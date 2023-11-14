@@ -175,6 +175,19 @@ img{
 
 
 .button {
-  background-color:  transparent !important;
-  color: white !important;
+  size: 100px 100px;
+  font: bold;
+  color: black !important;
+}
+
+
+
+/*Download*/
+
+.txt{
+position:absolute;
+top: 500px;
+left: 500px;
+font: bold;
+color: black;
 }
