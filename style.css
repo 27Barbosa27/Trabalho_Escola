@@ -175,8 +175,7 @@ img{
 
 
 .button {
-  size: 100px 100px;
-  font: bold;
+  background-color:  transparent !important;
   color: black !important;
 }
 
@@ -185,9 +184,10 @@ img{
 /*Download*/
 
 .txt{
-position:absolute;
+  position:absolute;
 top: 500px;
 left: 500px;
 font: bold;
 color: black;
+
 }
